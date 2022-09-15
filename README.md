@@ -7,4 +7,7 @@ HW 3: 100/100 <br />
 HW 4: 93/100 <br />
 Midterm: 94.5/100 <br />
 <br />
-Grade Recieved: A
+Grade Recieved: A <br />
+<br />
+Topics: <br />
+Introduction to design and analysis of algorithms. Design techniques: divide-and-conquer, greedy method, <br /> dynamic programming; selection of prototypical algorithms; choice of data structures and representations; <br /> complexity measures: time, space, upper, lower bounds, asymptotic complexity; NP-completeness.
