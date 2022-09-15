@@ -6,4 +6,5 @@ HW 2: 100/100 <br />
 HW 3: 100/100 <br />
 HW 4: 93/100 <br />
 Midterm: 94.5/100 <br />
+<br />
 Grade Recieved: A
