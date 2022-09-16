@@ -10,4 +10,4 @@ Midterm: 94.5/100 <br />
 Grade Recieved: A <br />
 <br />
 Topics: <br />
-Introduction to design and analysis of algorithms. Design techniques: divide-and-conquer, greedy method, <br /> dynamic programming; selection of prototypical algorithms; choice of data structures and representations; <br /> complexity measures: time, space, upper, lower bounds, asymptotic complexity; NP-completeness.
+- Introduction to design and analysis of algorithms. Design techniques: divide-and-conquer, greedy method, dynamic programming; selection of prototypical algorithms; choice of data structures and representations; complexity measures: time, space, upper, lower bounds, asymptotic complexity; NP-completeness.
