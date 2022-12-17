@@ -11,3 +11,4 @@ Grade Recieved: A <br />
 <br />
 Topics: <br />
 - Introduction to design and analysis of algorithms. Design techniques: divide-and-conquer, greedy method, dynamic programming; selection of prototypical algorithms; choice of data structures and representations; complexity measures: time, space, upper, lower bounds, asymptotic complexity; NP-completeness.
+- Note: These solutions should not be directly copied from! If so, you are doing so at your own risk. Some of these solutions may or may not be complete or correct as well.
