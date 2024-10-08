@@ -9,4 +9,4 @@ Markings:
 - HW 3: 100/100 <br />
 - HW 4: 93/100 <br />
 - Midterm: 94.5/100 <br />
-- Grade Recieved: A <br />
+- Grade Received: A <br />
